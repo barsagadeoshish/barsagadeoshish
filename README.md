@@ -52,7 +52,6 @@
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barsagadeoshish&show_icons=true&locale=en&layout=compact" alt="barsagadeoshish" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barsagadeoshish&show_icons=true&locale=en" alt="barsagadeoshish" /></p>
 
