@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM0dGhsZGRuY21ranVkeWI0Z2o4MjYyY2c0YWZtbTVoMGlwOXdudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM0dGhsZGRuY21ranVkeWI0Z2o4MjYyY2c0YWZtbTVoMGlwOXdudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 <h3 align="center">Aspiring entrepreneur from India, crafting digital products with purpose.</h3>
 
